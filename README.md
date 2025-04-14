@@ -2,4 +2,5 @@
 
 Implement multithreading in Nodejs using worker threads
 
-NOTE: This is important!
+REFERENCE:
+https://www.digitalocean.com/community/tutorials/how-to-use-multithreading-in-node-js
